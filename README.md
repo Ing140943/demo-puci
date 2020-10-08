@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/Ing140943/demo-puci.svg?branch=master)](https://travis-ci.com/github/Ing140943/demo-puci)
-
+[![codecov](https://codecov.io/gh/Ing140943/demo-pyci/branch/master/graph/badge.svg)](https://codecov.io/gh/Ing140943/demo-pyci)
 
 Continuous Integration Demo
 ============================
